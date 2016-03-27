@@ -11,6 +11,8 @@ This gives the effect of children being clipped by the parent.
 
 This should be implemented recursively for containers within other containers.
 
+[![GUI Shader!](http://dankokozar.com/images/gui-shader.png)](https://www.youtube.com/watch?v=K0f2Nj0DPso)
+
 ## :tv: Video
 
 https://www.youtube.com/watch?v=K0f2Nj0DPso
