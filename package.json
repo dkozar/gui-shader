@@ -1,0 +1,36 @@
+{
+  "name": "gui-shader",
+  "version": "1.0.1",
+  "description": "Rectangle clip shader/mask for scrollable GUI containers",
+  "main": "shader.shader",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkozar/gui-shader.git"
+  },
+  "keywords": [
+    "gui",
+    "shader",
+    "mask",
+    "clip",
+    "scroll",
+    "rectangle",
+    "rectangular",
+    "Unity",
+    "Unity3d",
+    "parent",
+    "child",
+    "stencil",
+    "crop",
+    "clip",
+    "clipped"
+  ],
+  "author": "Danko Kozar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkozar/gui-shader/issues"
+  },
+  "homepage": "https://github.com/dkozar/gui-shader#readme"
+}
